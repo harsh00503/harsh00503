@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
 
 <h3 align="center">Backend Developer • Java Enthusiast • Computer Science Student</h3>
@@ -126,4 +126,3 @@
 <p align="center">
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
-```
